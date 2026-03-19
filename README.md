@@ -21,7 +21,8 @@ The system monitors:
 
 ## 🏗 Architecture
 
-![Architecture Diagram](architecture/architecture.png)
+<img width="850" height="1100" alt="Cloud Monitoring Architecture " src="https://github.com/user-attachments/assets/9c5142c9-abf8-4811-bd9a-1349a6612242" />
+
 
 ---
 
